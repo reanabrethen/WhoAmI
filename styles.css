@@ -1,6 +1,9 @@
 body{
     background-image: url(https://images.squarespace-cdn.com/content/v1/581517e115d5dbcebac21922/1566472287597-VHQJUBIX8CON12BWHPOD/Sunflower+Sunset-1.jpg?format=1500w);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
+
 
 h1{
     font-size: 50px;
