@@ -1,0 +1,89 @@
+body{
+    background-image: url(https://images.squarespace-cdn.com/content/v1/581517e115d5dbcebac21922/1566472287597-VHQJUBIX8CON12BWHPOD/Sunflower+Sunset-1.jpg?format=1500w);
+}
+
+h1{
+    font-size: 50px;
+    margin-top: -25px;
+    margin-bottom: 20px;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+p{
+    text-align: center;
+    font-size: 15px;
+    font-family: cursive;
+}
+h2, h3, ol, ul {
+    font-size: 15px;
+    font-family: cursive;
+}
+#para1{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    color:goldenrod
+}
+.img, .center{
+    height: 150px;
+    width: 150px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    }
+    .img2{
+        width: 150px;
+        height: 100px;
+    }
+.img3{
+    width: 200px;
+    height: 150px;
+    display: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+.img4{
+    width: 150px;
+    height: auto;
+}
+.menu{
+    width: 80%;
+    background-color: #4C9900;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 60px;
+    max-width: 500px;
+}
+hr{
+    height: 2px;
+    background-color: #F5DF1F;
+    border-color: #F5DF1F;
+}
+a{
+    color:black;
+    font-family: cursive;
+    font-size: 15px;
+}
+a:visited{
+    color:black;
+}
+a:hover{
+    color:#F5DF1F;
+}
+a:active{
+    color:#F5DF1F;
+}
+/* FOOTER */
+footer{
+    font-size: 10px;
+    
+}
+.bottom{
+    height: 60px;
+    width: 185px;
+    background-color: #4C9900;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
